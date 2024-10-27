@@ -99,7 +99,7 @@ Technologies Used
     
     Copy code
     
-    git clone https://github.com/yourusername/Hotel-Management-System.git
+    git clone https://github.com/Jas-raj/HotelManagement.git
     
     
 Open in IntelliJ IDEA:
